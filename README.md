@@ -13,11 +13,11 @@ ____
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
-  <a href="https://www.linkedin.com/in/santiago-prodanoff-b97256100/">
+  <a href="https://www.linkedin.com/in/santiago-prodanoff-b97256100/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://github.com/santiagoprodanoff/">
+  <a href="https://github.com/santiagoprodanoff/" target="_blank">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 </p>
